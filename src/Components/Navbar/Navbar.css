@@ -7,6 +7,14 @@
 
 .navbar img{
     height: 80px;
+    /* transform: scale(1.05); */
+    /* transition: 0.5s; */
+}
+
+.navbar img:hover{
+    transform: scale(1.05);
+    transition: 0.5s;
+
 }
 
 .nav-menu{
