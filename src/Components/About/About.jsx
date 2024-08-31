@@ -39,6 +39,11 @@ const About = () => {
                     <p>PROJECTS COMPLETED</p>
                 </div>
                 <hr />
+                <div className="about-achievement">
+                    <h1>15+</h1>
+                    <p>HAPPY CLIENTS</p>
+                </div>
+                <hr />
             </div>
 
         </div>
