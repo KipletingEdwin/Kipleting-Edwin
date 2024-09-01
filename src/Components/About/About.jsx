@@ -10,7 +10,7 @@ const About = () => {
             <h1>About Me</h1>
             <img src={theme_pattern} alt="theme" />
         </div>
-        <div className='about-section'>
+        <div className='about-sections'>
             <div className="about-left">
                 <img src={profile_img} alt="profile" />
             </div>
